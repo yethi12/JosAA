@@ -1,0 +1,17 @@
+For the php code to run efficiently
+
+
+
+-> Create a database with name 'josaa'
+
+-> Username : 'Thanish@localhost'
+
+-> Password : 'Thanish@123'
+
+-> Grant all previliges over josaa to the above username 
+
+-> Import the josaa.sql file provided.
+
+
+
+Note : Ignore the jupyter notebooks found in this folder. They notify how we did the web-scraping for gathering data.
